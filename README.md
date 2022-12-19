@@ -5,10 +5,9 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 홈페이지 UI - 2022.12.19
+![image](https://user-images.githubusercontent.com/113181934/208384528-44bec888-7a87-48d7-adf5-a9aae63628c7.png)
+
 
 ### Compiles and minifies for production
 ```
