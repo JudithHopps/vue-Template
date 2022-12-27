@@ -1,8 +1,8 @@
 <template>
   <div id ="home">
     <div class="d-row align-items-center flex-column mb-3 content" style="width: 700px; ">
-      <h1 style="font-weight:bold;margin-bottom: 0.5em;">라온은 IT통합보안·인증 선도기업</h1>
-      <p class="lead" style="font-size: 0.8em;font-weight:lighter;">국내 최고의 화이트 해커 그룹을 보유하고 있는 보안 전문 기업이 어떤 기업인가요?<br/>대한민국의 IT통합보안과 인증을 선도하는 기업을 알고 있나요? <br/>위 두 질문에 답을 드리겠습니다.</p>
+      <h1 style="font-weight:bold;margin-bottom: 0.5em;"> 안녕하세요.</h1>
+      <p class="lead" style="font-size: 0.8em;font-weight:lighter;">좋은 하루 보내세요.</p>
       <a href="/story"><button type="button" class="btn btn-light" style="">알아보기</button></a>
     </div>
     

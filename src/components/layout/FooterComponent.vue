@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg d-flex justify-content-center footer " style="color:white;font-size: 0.4em;">
   
-    promotion Site for Raoncorp by You Su Bin  
+    promotion Site by You Su Bin  
   
 </nav>
 </template>
@@ -9,11 +9,13 @@
 <script setup></script>
 
 <style scoped>
-.footer {
-  position: absolute;
+
+.footer{
   bottom: 0;
-  width: 100%;
-  height: 4em;
+  height: 0.4em;
+  background-color: #ff7f00 ;
+  position : relative;
+  transform : translateY(-100%);
 }
 
 </style>
