@@ -1,4 +1,4 @@
-# raoncorp
+# vue-template
 
 ## Project setup
 ```
