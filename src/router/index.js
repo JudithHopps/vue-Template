@@ -1,23 +1,23 @@
 import { createRouter, createWebHistory } from "vue-router";
-import HomeView from "../pages/HomeView.vue";
-import PortfolioView from "../pages/PortfolioView.vue";
-import SkillView from "../pages/SkillView.vue";
+import EffectView from "../pages/EffectView.vue";
+import ArticleView from "../pages/ArticleView.vue";
+import CardView from "../pages/CardView.vue";
 
 const routes = [
   {
     path: "/",
-    name: "home",
-    component: HomeView,
+    name: "effect",
+    component: EffectView,
   },
   {
-    path: "/portfolio",
-    name: "portfolio",
-    component: PortfolioView,
+    path: "/article",
+    name: "article",
+    component: ArticleView,
   },
   {
-    path: "/skill",
-    name: "skill",
-    component: SkillView,
+    path: "/card",
+    name: "card",
+    component: CardView,
   },
 ];
 

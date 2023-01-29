@@ -12,20 +12,28 @@
               ><a>Home</a></router-link
             >
           </li>
+          <!-- <li class="nav-item">
+            <router-link
+              class="nav-link"
+              active-class="nav-link active"
+              to="/effect"
+              ><a>Effect</a></router-link
+            >
+          </li> -->
           <li class="nav-item">
             <router-link
               class="nav-link"
               active-class="nav-link active"
-              to="/Portfolio"
-              ><a>Portfolio</a></router-link
+              to="/article"
+              ><a>article</a></router-link
             >
           </li>
           <li class="nav-item">
             <router-link
               class="nav-link"
               active-class="nav-link active"
-              to="/skill"
-              ><a>Skill</a></router-link
+              to="/card"
+              ><a>card</a></router-link
             >
           </li>
         </ul>
@@ -40,9 +48,10 @@
   position: fixed;
   left: 0px;
   top: 0px;
-  z-index: 6;
+  z-index: 10;
   width: 100%;
-  height: 2.5em;
+  height: 7vh;
+  background-color: white;
 }
 .nav-link {
   font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
